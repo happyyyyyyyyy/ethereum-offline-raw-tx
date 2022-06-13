@@ -7,13 +7,13 @@ Ethereum raw transaction hash offline in PHP
 ## Installation
 
 ```sh
-$ composer require kornrunner/ethereum-offline-raw-tx
+$ composer require happyyyyyyyyy/ethereum-offline-raw-tx
 ```
 
 ## Usage
 
 ```php
-use kornrunner\Ethereum\Transaction;
+use happyyyyyyyyy\Ethereum\Transaction;
 
 $nonce    = '04';
 $gasPrice = '03f5476a00';
@@ -32,7 +32,7 @@ $transaction->getRaw ();
 With different `chainId`
 
 ```php
-use kornrunner\Ethereum\Transaction;
+use happyyyyyyyyy\Ethereum\Transaction;
 
 $nonce    = '04';
 $gasPrice = '03f5476a00';
