@@ -1,5 +1,5 @@
 {
-    "name": "kornrunner/ethereum-offline-raw-tx",
+    "name": "happyyyyyyyyy/ethereum-offline-raw-tx",
     "description": "Pure PHP Ethereum Offline Raw Transaction Signer",
     "keywords": ["ethereum", "offline", "transaction", "eth", "tx"],
     "license": "MIT",
@@ -17,12 +17,12 @@
     },
     "autoload": {
         "psr-4": {
-            "kornrunner\\": "src"
+            "happyyyyyyyyy\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "kornrunner\\": "test"
+            "happyyyyyyyyy\\": "test"
         }
     },
     "require-dev": {

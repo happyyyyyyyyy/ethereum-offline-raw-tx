@@ -1,6 +1,6 @@
 <?php
 
-namespace kornrunner\Ethereum;
+namespace happyyyyyyyyy\Ethereum;
 
 use kornrunner\Keccak;
 use kornrunner\Secp256k1;

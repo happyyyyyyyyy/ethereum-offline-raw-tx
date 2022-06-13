@@ -2,7 +2,7 @@
 
 namespace kornrunner;
 
-use kornrunner\Ethereum\Transaction;
+use happyyyyyyyyy\Ethereum\Transaction;
 use PHPUnit\Framework\TestCase;
 use RuntimeException;
 
